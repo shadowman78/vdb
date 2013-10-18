@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ciao hello hello hello
+=======
+ciao ciao
+>>>>>>> parent of 4e0e8d8... Added third 'ciao'
